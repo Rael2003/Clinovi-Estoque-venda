@@ -12,7 +12,7 @@ API desenvolvida em .NET para gerenciamento de produtos e simulação de vendas,
 
 ### Passos
 
-* Abra solução e execute
+* Abra solução e execute:
 
 ```bash
 dotnet restore
