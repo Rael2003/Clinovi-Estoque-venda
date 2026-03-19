@@ -1,0 +1,15 @@
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Infrastructure\obj\Debug\net10.0\Clinovi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Infrastructure\obj\Debug\net10.0\Clinovi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Infrastructure\obj\Debug\net10.0\Clinovi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Infrastructure\obj\Debug\net10.0\Clinovi.Infrastructure.AssemblyInfo.cs
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Infrastructure\obj\Debug\net10.0\Clinovi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Infrastructure\bin\Debug\net10.0\Clinovi.Infrastructure.deps.json
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Infrastructure\bin\Debug\net10.0\Clinovi.Infrastructure.dll
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Infrastructure\bin\Debug\net10.0\Clinovi.Infrastructure.pdb
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Infrastructure\bin\Debug\net10.0\Clinovi.Domain.dll
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Infrastructure\bin\Debug\net10.0\Clinovi.Domain.pdb
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Infrastructure\obj\Debug\net10.0\Clinovi..419AA070.Up2Date
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Infrastructure\obj\Debug\net10.0\Clinovi.Infrastructure.dll
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Infrastructure\obj\Debug\net10.0\refint\Clinovi.Infrastructure.dll
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Infrastructure\obj\Debug\net10.0\Clinovi.Infrastructure.pdb
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Infrastructure\obj\Debug\net10.0\ref\Clinovi.Infrastructure.dll

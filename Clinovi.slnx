@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Clinovi.API/Clinovi.API.csproj" />
+  <Project Path="Clinovi.Application/Clinovi.Application.csproj" />
+  <Project Path="Clinovi.Domain/Clinovi.Domain.csproj" />
+  <Project Path="Clinovi.Infrastructure/Clinovi.Infrastructure.csproj" />
+</Solution>

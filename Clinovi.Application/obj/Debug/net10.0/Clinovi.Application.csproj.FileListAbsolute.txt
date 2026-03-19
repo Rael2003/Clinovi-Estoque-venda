@@ -1,0 +1,15 @@
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Application\bin\Debug\net10.0\Clinovi.Application.deps.json
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Application\bin\Debug\net10.0\Clinovi.Application.dll
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Application\bin\Debug\net10.0\Clinovi.Application.pdb
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Application\bin\Debug\net10.0\Clinovi.Domain.dll
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Application\bin\Debug\net10.0\Clinovi.Domain.pdb
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Application\obj\Debug\net10.0\Clinovi.Application.csproj.AssemblyReference.cache
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Application\obj\Debug\net10.0\Clinovi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Application\obj\Debug\net10.0\Clinovi.Application.AssemblyInfoInputs.cache
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Application\obj\Debug\net10.0\Clinovi.Application.AssemblyInfo.cs
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Application\obj\Debug\net10.0\Clinovi.Application.csproj.CoreCompileInputs.cache
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Application\obj\Debug\net10.0\Clinovi..7BBE9B3D.Up2Date
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Application\obj\Debug\net10.0\Clinovi.Application.dll
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Application\obj\Debug\net10.0\refint\Clinovi.Application.dll
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Application\obj\Debug\net10.0\Clinovi.Application.pdb
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Application\obj\Debug\net10.0\ref\Clinovi.Application.dll

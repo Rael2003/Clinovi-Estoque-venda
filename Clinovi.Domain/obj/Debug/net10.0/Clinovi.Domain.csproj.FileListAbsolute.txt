@@ -1,0 +1,11 @@
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Domain\bin\Debug\net10.0\Clinovi.Domain.deps.json
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Domain\bin\Debug\net10.0\Clinovi.Domain.dll
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Domain\bin\Debug\net10.0\Clinovi.Domain.pdb
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Domain\obj\Debug\net10.0\Clinovi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Domain\obj\Debug\net10.0\Clinovi.Domain.AssemblyInfoInputs.cache
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Domain\obj\Debug\net10.0\Clinovi.Domain.AssemblyInfo.cs
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Domain\obj\Debug\net10.0\Clinovi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Domain\obj\Debug\net10.0\Clinovi.Domain.dll
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Domain\obj\Debug\net10.0\refint\Clinovi.Domain.dll
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Domain\obj\Debug\net10.0\Clinovi.Domain.pdb
+C:\Users\rsouz\source\repos\Clinovi\Clinovi.Domain\obj\Debug\net10.0\ref\Clinovi.Domain.dll
