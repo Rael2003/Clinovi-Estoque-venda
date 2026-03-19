@@ -12,10 +12,9 @@ API desenvolvida em .NET para gerenciamento de produtos e simulação de vendas,
 
 ### Passos
 
-```bash
-git clone <seu-repositorio>
-cd Clinovi
+* Abra solução e execute
 
+```bash
 dotnet restore
 dotnet run --project Clinovi.API
 ```
